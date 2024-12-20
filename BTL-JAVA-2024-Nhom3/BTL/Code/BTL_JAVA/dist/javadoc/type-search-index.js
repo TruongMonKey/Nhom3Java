@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Data","l":"DatabaseAcc"},{"p":"Model","l":"Grade"},{"p":"GiaoDien","l":"Login"},{"p":"GiaoDien","l":"QLDiem"},{"p":"GiaoDien","l":"QLSV"},{"p":"Model","l":"SinhVien"}];updateSearchResults();
